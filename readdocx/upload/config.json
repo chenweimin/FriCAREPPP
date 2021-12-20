@@ -1,0 +1,10 @@
+{
+    "share_point": 
+        {
+            "user": "barry.chen@fricare.com",
+            "password": "FriCARE0506",
+            "url": "https://itsfricare.sharepoint.com",
+            "site": "https://itsfricare.sharepoint.com/sites/test2",
+            "doc_library": "Shared Documents/" 
+        }
+}
